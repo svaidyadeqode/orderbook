@@ -1,0 +1,23 @@
+.order {
+  display: flex;
+  justify-content: center;
+  height: 480px;
+}
+.order div {
+  margin: 15px;
+}
+.order div p {
+  margin: 15px;
+  padding: 2px;
+}
+
+.tableClass {
+  text-align: center;
+  border-collapse: collapse;
+  border: 3px solid rgb(0, 0, 0);
+}
+.tableClass td {
+  width: 100px;
+  padding-top: 4px;
+  padding-bottom: 2px;
+}
